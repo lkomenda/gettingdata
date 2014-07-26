@@ -12,9 +12,9 @@ Files included
 -------------------------------------
 1. data_CP_tidy1.txt
     This is a tidy data set created from the raw data using scripts included in
-    file courseProject.r
+    file run_analysis.r
 	This is tab separated data.
-2. CourseProject.r 
+2. run_analysis.r
     This is a file containing script I used to get and clean the data for the project
     
 3. CodeBook.md
@@ -49,7 +49,7 @@ The raw data is split into several tables into rather unwieldy bunch of files. I
 
 A brief description of what the script will do
 ----------------------------------------
-The script form the CourseProject.r file will:
+The script form the run_analysis.r file will:
 
 - collect the data from the Internet
 - read data into R
