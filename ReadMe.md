@@ -13,6 +13,7 @@ Files included
 1. data_CP_tidy1.txt
     This is a tidy data set created from the raw data using scripts included in
     file courseProject.r
+	This is tab separated data.
 2. CourseProject.r 
     This is a file containing script I used to get and clean the data for the project
     
